@@ -1,2 +1,4 @@
-﻿.opencode/
-session-ses_f310.md
+﻿.opencode/*
+!.opencode/skill/
+.opencode/skill/*
+!.opencode/skill/generar-rubrica/
